@@ -1,5 +1,5 @@
 # SentimentAnalysis
-Utilisation d'un classifieur de bayes naif pour l'analyse de sentiment d'un article en utilisant la librairie nltk
+Utilisation d'un classifieur de bayes naif pour l'analyse de sentiment d'un article
 ================================================
 Le but du programme est de déterminer si un article musical emet un opinion positive ou négative.
 
